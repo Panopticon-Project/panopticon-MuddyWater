@@ -17,3 +17,5 @@ https://www.securityweek.com/muddywater-threat-actor-expands-targets-list
 https://www.securityweek.com/new-powershell-backdoor-resembles-muddywater-malware
 
 https://www.securityweek.com/highly-active-muddywater-hackers-hit-30-organizations-2-months
+
+https://securelist.com/muddywater/88059/
