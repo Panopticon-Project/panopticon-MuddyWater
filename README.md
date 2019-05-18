@@ -19,3 +19,5 @@ https://www.securityweek.com/new-powershell-backdoor-resembles-muddywater-malwar
 https://www.securityweek.com/highly-active-muddywater-hackers-hit-30-organizations-2-months
 
 https://securelist.com/muddywater/88059/
+
+https://securelist.com/muddywaters-arsenal/90659/
