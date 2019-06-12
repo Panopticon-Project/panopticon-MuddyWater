@@ -23,3 +23,5 @@ https://securelist.com/muddywater/88059/
 https://securelist.com/muddywaters-arsenal/90659/
 
 https://blog.talosintelligence.com/2019/05/recent-muddywater-associated-blackwater.html
+
+https://www.securityweek.com/muddywater-cyberspies-update-powershell-backdoor
