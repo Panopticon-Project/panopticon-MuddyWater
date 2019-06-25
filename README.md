@@ -27,3 +27,5 @@ https://blog.talosintelligence.com/2019/05/recent-muddywater-associated-blackwat
 https://www.securityweek.com/muddywater-cyberspies-update-powershell-backdoor
 
 https://www.securityweek.com/kaspersky-analyzes-hacking-groups-homegrown-attack-tools
+
+https://malware-research.org/muddywater-ongoing/
