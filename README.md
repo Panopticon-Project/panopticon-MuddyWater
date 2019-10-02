@@ -29,3 +29,5 @@ https://www.securityweek.com/muddywater-cyberspies-update-powershell-backdoor
 https://www.securityweek.com/kaspersky-analyzes-hacking-groups-homegrown-attack-tools
 
 https://malware-research.org/muddywater-ongoing/
+
+https://www.difesaesicurezza.com/en/cyber-en/cyber-warfare-iran-cyber-army-exposed-again/
