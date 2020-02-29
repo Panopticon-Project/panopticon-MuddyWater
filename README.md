@@ -31,3 +31,5 @@ https://www.securityweek.com/kaspersky-analyzes-hacking-groups-homegrown-attack-
 https://malware-research.org/muddywater-ongoing/
 
 https://www.difesaesicurezza.com/en/cyber-en/cyber-warfare-iran-cyber-army-exposed-again/
+
+https://threatpost.com/iranian-apt-targets-govs-with-new-malware/153162/
