@@ -33,3 +33,5 @@ https://malware-research.org/muddywater-ongoing/
 https://www.difesaesicurezza.com/en/cyber-en/cyber-warfare-iran-cyber-army-exposed-again/
 
 https://threatpost.com/iranian-apt-targets-govs-with-new-malware/153162/
+
+https://www.securityweek.com/iranian-cyberspies-focus-long-running-operations
