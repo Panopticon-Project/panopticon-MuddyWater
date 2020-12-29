@@ -36,3 +36,5 @@ https://www.difesaesicurezza.com/en/cyber-en/cyber-warfare-iran-cyber-army-expos
 https://threatpost.com/iranian-apt-targets-govs-with-new-malware/153162/
 
 https://www.securityweek.com/iranian-cyberspies-focus-long-running-operations
+
+https://www.binarydefense.com/threat_watch/github-hosted-malware-decodes-cobalt-strike-beacon-from-imgur-picture/
