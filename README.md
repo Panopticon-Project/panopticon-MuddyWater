@@ -40,3 +40,5 @@ https://www.securityweek.com/iranian-cyberspies-focus-long-running-operations
 https://www.binarydefense.com/threat_watch/github-hosted-malware-decodes-cobalt-strike-beacon-from-imgur-picture/
 
 https://threatpost.com/microsoft-zerologon-attack-iranian-actors/159874/
+
+https://www.anomali.com/blog/probable-iranian-cyber-actors-static-kitten-conducting-cyberespionage-campaign-targeting-uae-and-kuwait-government-agencies
