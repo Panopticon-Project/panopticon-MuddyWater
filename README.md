@@ -42,3 +42,5 @@ https://www.binarydefense.com/threat_watch/github-hosted-malware-decodes-cobalt-
 https://threatpost.com/microsoft-zerologon-attack-iranian-actors/159874/
 
 https://www.anomali.com/blog/probable-iranian-cyber-actors-static-kitten-conducting-cyberespionage-campaign-targeting-uae-and-kuwait-government-agencies
+
+https://www.cyberscoop.com/suspected-iranian-hackers-snooping-on-middle-eastern-targets-anew/
