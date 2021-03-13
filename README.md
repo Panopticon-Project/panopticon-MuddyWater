@@ -44,3 +44,5 @@ https://threatpost.com/microsoft-zerologon-attack-iranian-actors/159874/
 https://www.anomali.com/blog/probable-iranian-cyber-actors-static-kitten-conducting-cyberespionage-campaign-targeting-uae-and-kuwait-government-agencies
 
 https://www.cyberscoop.com/suspected-iranian-hackers-snooping-on-middle-eastern-targets-anew/
+
+https://www.trendmicro.com/en_us/research/21/c/earth-vetala---muddywater-continues-to-target-organizations-in-t.html
