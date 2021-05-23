@@ -48,3 +48,5 @@ https://www.cyberscoop.com/suspected-iranian-hackers-snooping-on-middle-eastern-
 https://www.trendmicro.com/en_us/research/21/c/earth-vetala---muddywater-continues-to-target-organizations-in-t.html
 
 https://cyware.com/news/muddywater-apt-goes-ham-on-its-targets-bd67fa1b
+
+https://marcoramilli.com/2021/05/01/muddywater-binder-project-part-1/
