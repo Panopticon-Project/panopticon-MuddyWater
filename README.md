@@ -56,3 +56,5 @@ https://marcoramilli.com/2021/05/07/muddywater-binder-project-part-2/
 https://www.securityweek.com/iranian-apt-targets-middle-east-telecoms-operators-espionage-campaign
 
 https://www.securityweek.com/iran-linked-apt-abuses-slack-attacks-asian-airline
+
+https://www.virustotal.com/gui/collection/524cfb08e0fef08af4b30971025077ec592d18bbccf7f43b02dcfa38e8af94e0
