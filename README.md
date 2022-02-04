@@ -1,5 +1,7 @@
 # panopticon-MuddyWater
 
+https://blog.talosintelligence.com/2022/01/iranian-apt-muddywater-targets-turkey.html
+
 http://www.securityweek.com/middle-east-muddywater-attacks-difficult-clear
 
 https://www.securityweek.com/new-cyberespionage-attacks-linked-muddywater-campaign
