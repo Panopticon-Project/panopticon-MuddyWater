@@ -66,3 +66,5 @@ https://www.securityweek.com/us-cyber-command-officially-links-muddywater-group-
 https://securityaffairs.co/wordpress/127474/apt/muddywater-apt-targets-turkey.html
 
 https://www.securityweek.com/us-uk-warn-iranian-cyberattacks-government-commercial-networks
+
+https://www.cisa.gov/uscert/ncas/current-activity/2022/02/24/iranian-government-sponsored-muddywater-actors-conducting
