@@ -68,3 +68,7 @@ https://securityaffairs.co/wordpress/127474/apt/muddywater-apt-targets-turkey.ht
 https://www.securityweek.com/us-uk-warn-iranian-cyberattacks-government-commercial-networks
 
 https://www.cisa.gov/uscert/ncas/current-activity/2022/02/24/iranian-government-sponsored-muddywater-actors-conducting
+
+https://blog.talosintelligence.com/2022/03/iranian-supergroup-muddywater.html
+
+https://www.cybercom.mil/Media/News/Article/2897570/iranian-intel-cyber-suite-of-malware-uses-open-source-tools/
