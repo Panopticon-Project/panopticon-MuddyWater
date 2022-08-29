@@ -74,3 +74,5 @@ https://blog.talosintelligence.com/2022/03/iranian-supergroup-muddywater.html
 https://www.cybercom.mil/Media/News/Article/2897570/iranian-intel-cyber-suite-of-malware-uses-open-source-tools/
 
 https://lab52.io/blog/muddywaters-light-first-stager-targetting-middle-east/
+
+https://www.microsoft.com/security/blog/2022/08/25/mercury-leveraging-log4j-2-vulnerabilities-in-unpatched-systems-to-target-israeli-organizations/
