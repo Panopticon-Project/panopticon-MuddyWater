@@ -80,3 +80,5 @@ https://www.microsoft.com/security/blog/2022/08/25/mercury-leveraging-log4j-2-vu
 https://www.hhs.gov/sites/default/files/iranian-threat-actors-and-healthcare.pdf
 
 https://www.deepinstinct.com/blog/new-muddywater-threat-old-kitten-new-tricks
+
+https://mp.weixin.qq.com/s/aYB7W_elO4FHPUtKrUtzHQ
